@@ -26,7 +26,7 @@ void delivery()
     if(a==1)
     {
         gotoxy(52,17);
-        printf("Our Number :01749360345");
+        printf("Our Number :01700000000");
         gotoxy(52,18);
         printf("Your Number:");
         scanf("%s",b);
